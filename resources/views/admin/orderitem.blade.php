@@ -160,10 +160,10 @@
               </div>
               <div class="user-item">
                 <div class="user-item-icon">
-                  <img src="{{ $orderItem->user->image_url }}" alt="{{ $orderItem->user->name }}">
+                  <img src="{{ $orderItem->user->image_url }}" alt="{{ $orderItem->user->nickname }}">
                 </div>
                 <div class="user-item-name">
-                  <a href="{{ route(config('admin.route.prefix') . '.admin.user.show', ['user' => $orderItem->user->id]) }}">{{ $orderItem->user->name }}</a>
+                  <a href="{{ route(config('admin.route.prefix') . '.admin.user.show', ['user' => $orderItem->user->id]) }}">{{ $orderItem->user->nickname }}</a>
                 </div>
               </div>
             </div>

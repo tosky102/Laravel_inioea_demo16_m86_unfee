@@ -111,10 +111,10 @@
         </div>
         <div class="user-item">
           <div class="user-item-icon">
-            <img :src="item.user.image_url" :alt="item.user.name">
+            <img :src="item.user.image_url" :alt="item.user.nickname">
           </div>
           <div class="user-item-name">
-            <a :href="`/user/${item.user.id}`">{{ item.user.name }}</a>
+            <a :href="`/user/${item.user.id}`">{{ item.user.nickname }}</a>
           </div>
         </div>
       </div>
