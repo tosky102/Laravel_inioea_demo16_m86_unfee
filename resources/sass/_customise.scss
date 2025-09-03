@@ -1,0 +1,36 @@
+.icon-favorite::before {
+    content: '\e019';
+}
+.icon-favorited::before {
+    content: '\e01a';
+}
+.product-items-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.login-other-link {
+    text-align: right;
+    margin-right: 15px;
+
+    a {
+        text-decoration: underline;
+        color: #212529;
+    }
+}
+.top-slider .top-slider-img {
+    height: 450px !important;
+}
+@media (max-width: 768px) {
+    .top-slider {
+        .slick-slider {
+            &.slick-initialized {
+                height: inherit !important;
+            }
+        }
+        .top-slider-img {
+            width: 90vw;
+            height: auto !important;
+        }
+    }
+}

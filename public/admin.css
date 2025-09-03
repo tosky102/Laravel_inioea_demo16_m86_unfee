@@ -1,0 +1,3 @@
+table.grid-table th, table.grid-table td {
+    max-width: 240px;
+}

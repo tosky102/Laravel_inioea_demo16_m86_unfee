@@ -1,0 +1,80 @@
+/*-- layout -------- --*/
+.l-main {
+    /*width: 960px;*/
+    margin: 0 auto 20px;
+    padding-bottom: 30px;
+}
+
+/*-- style -------- --*/
+.tos-title {
+    width: auto;
+    margin: 30px 0 15px;
+    padding: 0 0 16px 0;
+    font-size: 24px;
+    border-bottom: 2px solid #e7e7e7;
+    line-height: 1.1;
+}
+
+.l-tos-container {
+    padding: 0 12px;
+}
+.l-tos-container h3 {
+    border-bottom: 2px dotted #e7e7e7;
+    line-height: 1.5;
+    padding: 15px 0 5px;
+}
+.l-tos-container h4 {
+    border-bottom: 1px solid #e7e7e7;
+    margin: 10px 0;
+    font-weight: bold;
+    line-height: 1.5;
+    padding: 10px 0;
+    font-size: 16px;
+}
+
+.l-tos-container h4 span.date {
+    font-weight: normal; font-size: 14px;
+    float: right; margin-top: 8px;
+}
+.l-tos-container p {
+    margin: 15px 0;
+    word-break: normal;
+    line-height: 1.6;
+    font-size: 13px;
+}
+.l-tos-container img {
+    max-width: 100%;
+}
+.l-tos-container ol {
+    padding: 0;
+}
+.l-tos-container ol li {
+    list-style: decimal outside;
+    margin: 10px 50px;
+    word-break: normal;
+}
+.l-tos-container ol li ol li {
+    list-style: decimal-leading-zero outside;
+    margin: 10px 50px;
+    word-break: normal;
+}
+
+#company_outline h4 {
+    border-bottom: 0px;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.back_gray {
+    background: #f0f0f0;
+}
+
+@media (max-width: 768px) {
+    .l-tos-container ol li {
+        margin: 10px;
+    }
+
+    .l-tos-container ol li ol li {
+        margin: 10px 20px;
+    }
+}
