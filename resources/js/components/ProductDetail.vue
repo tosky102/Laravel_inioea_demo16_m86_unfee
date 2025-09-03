@@ -1512,6 +1512,8 @@ export default {
   }
 
   .company-info {
+    flex: 1;
+    
     a {
       color: #212529;
       text-decoration: underline;
