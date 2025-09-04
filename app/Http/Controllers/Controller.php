@@ -188,6 +188,7 @@ class Controller extends BaseController
     {
         $rules = [
             'title' => ['required', 'string', 'max:100'],
+            'public_flag' => ['required', 'numeric'],
             'genre' => ['required', 'string'],
             'is_offering' => ['required', 'numeric'],
             'price' => ['required', 'numeric', 'min:0'],
