@@ -1,74 +1,78 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-SvRnYhEwGiTC
+<?php
+
+
+namespace App\Admin\Controllers;
+
+
+use Encore\Admin\Controllers\AdminController;
+use Encore\Admin\Form;
+use Encore\Admin\Grid;
+use Encore\Admin\Show;
+
+class TemplateController extends AdminController
+{
+    protected function title()
+    {
+        return trans('admin.template');
+    }
+
+    /**
+     *
+     * Make a grid builder.
+     *
+     * @return Grid
+     */
+    protected function grid()
+    {
+        /** @var \App\Models\MessageTemplate $templateModel */
+        $templateModel = config('admin.database.message_templates_model');
+        $grid = new Grid(new $templateModel());
+
+        $grid->column('id', 'ID')->sortable();
+        $grid->column('type', trans('admin.template_type'))->display(function ($type) {
+            return config('constants.arrMessageTemplate')[$type];
+        });
+        $grid->column('template', trans('admin.template_content'))->display(function ($value) {
+            return nl2br(e($value));
+        });
+        
+        return $grid;
+    }
+
+    /**
+     * Make a form builder.
+     *
+     * @return Form
+     */
+    public function form()
+    {
+        /** @var \App\Models\MessageTemplate $templateModel */
+        $templateModel = config('admin.database.message_templates_model');
+        $form = new Form(new $templateModel);
+
+        $form->display('id', 'ID');
+        $form->select('type', trans('admin.template_type'))->options(config('constants.arrMessageTemplate'))->rules('required');
+        $form->textarea('template', trans('admin.template_content'))->rules('required');
+
+        return $form;
+    }
+
+    public function detail($id)
+    {
+        /** @var \App\Models\MessageTemplate $templateModel */
+        $templateModel = config('admin.database.message_templates_model');
+        $template = $templateModel::findOrFail($id);
+
+        $show = new Show($template);
+        $show->field('id', 'ID');
+
+        $show->field('type', trans('admin.template_type'))->as(function ($type) {
+            return config('constants.arrMessageTemplate')[$type];
+        });
+        $show->field('template', trans('admin.template_content'))->as(function ($value) {
+            return nl2br(e($value));
+        })->unescape();
+        
+        return $show;
+    }
+}

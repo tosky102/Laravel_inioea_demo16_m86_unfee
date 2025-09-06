@@ -1,92 +1,81 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-1DoTHUrFXiq5bgaIhLFA5gcd8fx2CRKLM8q4
+<?php
+
+
+namespace App\Admin\Controllers;
+
+
+use Encore\Admin\Admin;
+use Encore\Admin\Controllers\AdminController;
+use Encore\Admin\Form;
+use Encore\Admin\Grid;
+
+class CashingController extends AdminController
+{
+    protected function title()
+    {
+        return trans('admin.cashing');
+    }
+
+    /**
+     *
+     * Make a grid builder.
+     *
+     * @return Grid
+     */
+    protected function grid()
+    {
+        $cashingdatasModel = config('admin.database.cashing_datas_model');
+        $grid = new Grid(new $cashingdatasModel());
+
+        $grid->column('id', trans('admin.cashing_id'))->sortable();
+        $grid->column('user.id', trans('admin.cashing_userid'));
+        $grid->column('user.nickname', trans('admin.cashing_username'));
+        $grid->column('status_text', trans('admin.cashing_status'));
+        $grid->column('money', trans('admin.cashing_money'));
+        $grid->column('fee', trans('admin.cashing_fee'));
+        $grid->column('transfer_money', trans('admin.cashing_transfer'));
+        $grid->column('created_at', trans('admin.cashing_date'))->display(function ($created_at) {
+            return date('Y-m-d H:i:s', strtotime($created_at));
+        });
+
+        $grid->disableCreateButton();
+
+        $grid->actions(function ($actions) {
+            $actions->disableView();
+        });
+
+        $grid->model()->orderBy('created_at', 'desc');
+
+        return $grid;
+    }
+
+    public function form()
+    {
+        $cashingdatasModel = config('admin.database.cashing_datas_model');
+        $form = new Form(new $cashingdatasModel());
+
+        $form->display('id', trans('admin.cashing_id'));
+        $form->display('created_datetime', trans('admin.cashing_date'));
+        $form->display('user.id', trans('admin.cashing_userid'));
+        $form->display('user.nickname', trans('admin.cashing_username'));
+        $form->display('bank_name', trans('admin.cashing_bank_name'));
+        $form->display('branch_name', trans('admin.cashing_branch_name'));
+        $form->display('branch_code', trans('admin.cashing_branch_code'));
+        $form->display('account_no', trans('admin.cashing_account_no'));
+        $form->display('deposit_name', trans('admin.cashing_deposit_name'));
+
+        $form->display('money', trans('admin.cashing_money'));
+        $form->display('fee', trans('admin.cashing_fee'));
+        $form->display('transfer_money', trans('admin.cashing_transfer'));
+
+        $arrCashingStatus = config('constants.arrCashingStatus');
+
+        $form->select('status', trans('admin.cashing_status'))->options($arrCashingStatus);
+
+        $form->tools(function (Form\Tools $tools) {
+            $tools->disableView();
+        });
+
+        return $form;
+    }
+}

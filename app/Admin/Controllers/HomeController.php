@@ -1,94 +1,83 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-kP48dlzPgRqrvm+uGcuFO0==
+<?php
+
+namespace App\Admin\Controllers;
+
+use App\Models\Browse;
+use App\Models\User;
+use App\Models\Contact;
+use App\Models\Item;
+use App\Models\Notification;
+use App\Models\OrderItem;
+use Carbon\Carbon;
+use Encore\Admin\Controllers\AdminController;
+use Encore\Admin\Layout\Content;
+
+class HomeController extends AdminController
+{
+    protected function title()
+    {
+        return trans('admin.dashboard');
+    }
+
+    public function index(Content $content)
+    {
+        $users = User::all()->count();
+        $contacts = Contact::all()->count();
+        $items = Item::all()->count();
+        $notifications = Notification::all();
+
+        $type = request()->get('type', 'pv');
+        
+        $titleType = 'PV';
+        if ($type == 'uu') {
+            $titleType = 'UU';
+        } else if ($type == 'session') {
+            $titleType = 'セッション';
+        }
+        
+        $endDate = Carbon::now()->addDay();
+        $startDate = Carbon::now()->subDays(29);
+        
+        $chartPeriod = $startDate->format('Y/m/d') . ' ~ ' . $endDate->copy()->subDay()->format('Y/m/d');
+        
+        $chartData = [];
+        $chartDataAuth = [];
+        $chartDataGuest = [];
+        $totalCount = 0;
+        for ($date = $startDate->copy(); $date->lte($endDate); $date->addDay()) {
+            if ($type == 'pv') {
+                $authData = Browse::whereBetween('created_at', [$date->format('Y-m-d 00:00:00'), $date->format('Y-m-d 23:59:59')])->whereHas('user')->count();
+                $guestData = Browse::whereBetween('created_at', [$date->format('Y-m-d 00:00:00'), $date->format('Y-m-d 23:59:59')])->whereDoesntHave('user')->count();
+
+                $chartDataGuest[$date->format('m-d')] = $guestData;
+                $totalCount += $guestData;
+            } else if ($type == 'uu') {
+                $authData = User::whereBetween('created_at', [$date->format('Y-m-d 00:00:00'), $date->format('Y-m-d 23:59:59')])->count();
+            } else if ($type == 'session') {
+                $authData = OrderItem::whereNotNull('matched_at')->whereBetween('matched_at', [$date->format('Y-m-d 00:00:00'), $date->format('Y-m-d 23:59:59')])->count();
+            }
+            
+            $chartDataAuth[$date->format('m-d')] = $authData;
+            $totalCount += $authData;
+        }
+        $chartData[] = [
+            'label' => $type == 'pv' ? 'ログイン状態' : $titleType,
+            'data' => $chartDataAuth,
+            'backgroundColor' => '#34cccc',
+        ];
+        if ($type == 'pv') {
+            $chartData[] = [
+                'label' => '未ログイン状態・非会員',
+                'data' => $chartDataGuest,
+                'backgroundColor' => '#40f7f7',
+            ];
+        }
+
+        $content = new Content();
+        $content->header(trans('admin.dashboard'));
+        $content->description(' ');
+        
+        $content->body(view('admin.dashboard', compact('users', 'contacts', 'items', 'notifications', 'chartPeriod', 'chartData', 'totalCount', 'titleType')));
+        return $content;
+    }
+}

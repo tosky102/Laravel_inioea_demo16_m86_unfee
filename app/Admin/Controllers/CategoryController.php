@@ -1,55 +1,64 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+
+namespace App\Admin\Controllers;
+
+use App\Models\Category;
+use Encore\Admin\Controllers\AdminController;
+use Encore\Admin\Form;
+use Encore\Admin\Grid;
+use Encore\Admin\Show;
+
+class CategoryController extends AdminController
+{
+    protected function title()
+    {
+        return trans('admin.category');
+    }
+
+    protected function grid()
+    {
+        /** @var \App\Models\Category $categoryModel */
+        $categoryModel = config('admin.database.categories_model');
+        $grid = new Grid(new $categoryModel());
+
+        $grid->column('id', 'ID');
+        // $grid->column('parent_id', trans('admin.category_parent'))->display(function ($parent_id) {
+        //     $parent = Category::find($parent_id);
+        //     return $parent ? $parent->name : '-';
+        // });
+        $grid->column('name', trans('admin.category_name'));
+        $grid->model()->orderBy('id', 'asc');
+
+        $grid->actions(function ($actions) {
+            $actions->disableView();
+        });
+
+        return $grid;
+    }
+
+    protected function form()
+    {
+        $categoryModel = config('admin.database.categories_model');
+        $form = new Form(new $categoryModel());
+
+        $form->display('id', 'ID');
+        // $form->select('parent_id', trans('admin.category_parent'))->options(Category::whereNull('parent_id')->pluck('name', 'id'));
+        $form->text('name', trans('admin.category_name'))->rules('required|max:100');
+
+        return $form;
+    }
+
+    protected function detail($id)
+    {
+        $categoryModel = config('admin.database.categories_model');
+
+        $category = $categoryModel::findOrFail($id);
+        $show = new Show($category);
+
+        $show->field('id', 'ID');
+        $show->field('name', trans('admin.category_name'));
+
+        return $show;
+    }
+}

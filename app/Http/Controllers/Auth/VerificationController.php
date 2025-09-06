@@ -1,47 +1,70 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3ZX7jDrSoq8=
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use App\Models\User;
+use App\Providers\RouteServiceProvider;
+use Illuminate\Auth\Events\Verified;
+use Illuminate\Foundation\Auth\VerifiesEmails;
+use Illuminate\Support\Facades\Session;
+use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+use Illuminate\Auth\Access\AuthorizationException;
+
+class VerificationController extends Controller
+{
+    /*
+    |--------------------------------------------------------------------------
+    | Email Verification Controller
+    |--------------------------------------------------------------------------
+    |
+    | This controller is responsible for handling email verification for any
+    | user that recently registered with the application. Emails may also
+    | be re-sent if the user didn't receive the original email message.
+    |
+    */
+
+    use VerifiesEmails;
+
+    /**
+     * Where to redirect users after verification.
+     *
+     * @var string
+     */
+    protected $redirectTo = RouteServiceProvider::MYPAGE;
+
+    /**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        parent::__construct();
+        // $this->middleware('auth');
+        // $this->middleware('signed')->only('verify');
+        $this->middleware('throttle:6,1')->only('verify', 'resend');
+    }
+
+    public function verify(Request $request)
+    {
+
+        if ($request->route('id')) {
+            $user = User::find($request->route('id'));
+            if ($user && $user->status == 0) {
+                if ($user->markEmailAsVerified()) {
+                    event(new Verified($user));
+                }
+            } else {
+                throw new AuthorizationException;
+            }
+        }
+        // if ($request->route('id') != $request->user()->getKey()) {
+        //     throw new AuthorizationException;
+        // }
+
+        Session::flash('success', '認証完了しました！');
+        return redirect($this->redirectPath())->with('verified', true);
+    }
+}

@@ -1,385 +1,416 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+
+namespace App\Http\Controllers;
+
+
+use App\Models\Browse;
+use App\Models\Category;
+use App\Models\Contact;
+use App\Models\Favorite;
+use App\Models\Follower;
+use App\Models\Item;
+use App\Models\User;
+use App\Models\Visit;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Validator;
+
+class UserController extends Controller
+{
+
+    public $page_num = 25;
+
+    public function index()
+    {
+        $keyword = isset($_GET['keyword']) ? $_GET['keyword'] : '';
+        $order = isset($_GET['order']) ? $_GET['order'] : '';
+        $count = isset($_GET['count']) ? $_GET['count'] : $this->page_num;
+        $category = isset($_GET['category']) ? $_GET['category'] : '';
+        $area = isset($_GET['area']) ? $_GET['area'] : '';
+        $gender = isset($_GET['gender']) ? $_GET['gender'] : '';
+        $isEmergency = isset($_GET['is_picked']) ? 1 : null;
+
+        $pageTitle = 'インフルエンサー一覧';
+        $title = 'インフルエンサー一覧';
+        $breadcrumbs = [
+            ['url' => route('top'), 'text' => 'トップページ'],
+            ['url' => '#', 'text' => $pageTitle],
+        ];
+        
+        $auth_user = User::find(Auth::user()->id);
+        $query = User::where('role', 'influencer')->where('status', 3);
+        if ($isEmergency) {
+            $query->where('is_picked', $isEmergency);
+        }
+        if ($keyword) {
+            $query->where('name', 'like', '%' . $keyword . '%')
+                ->orWhere('nickname', 'like', '%' . $keyword . '%')
+                ->orWhere('comment', 'like', '%' . $keyword . '%');
+        }
+        if ($category) {
+            $query->where('main_category', $category);
+        }
+        if ($area) {
+            $query->where('area', $area);
+        }
+        if ($gender) {
+            $query->where('gender', $gender);
+        }
+        if ($order == '') $order = 'new';
+        if ($order == 'new') {
+            $query->orderBy('created_at', 'DESC');
+        }
+        if ($order == 'view') {
+            $query->leftJoin('visits', 'users.id', '=', 'visits.visit_user_id')
+                ->groupBy('users.id')
+                ->orderByRaw('COUNT(visits.id) DESC')
+                ->select('users.*');
+        }
+
+        $arrCategories = Category::get()->pluck('name', 'id');
+        $objUsers = $query->paginate($count)->appends(request()->except('page'));
+        $startIndex = $count * ($objUsers->currentPage() - 1);
+        $users = $this->convertUsersToArray($objUsers, '', $startIndex, $arrCategories);
+
+        $arrAreas = config('constants.arrArea');
+        $arrGenders = config('constants.arrGender');
+        
+        $configs = array(
+            'total' => $objUsers->total(),
+            'count' => $count,
+            'order' => $order,
+            'keyword' => $keyword,
+            'category' => $category,
+            'area' => $area,
+            'gender' => $gender,
+            'categories' => $arrCategories,
+            'areas' => $arrAreas,
+            'genders' => $arrGenders,
+            'isPicked' => $isEmergency,
+        );
+
+        return view('user.index')->with(compact('breadcrumbs', 'title', 'users', 'configs', 'objUsers'));
+    }
+
+    public function show($id)
+    {
+        $user = User::find($id);
+        if (empty($user)) return redirect()->route('top');
+        if ($user->status == 4) {
+            return redirect()->route('top');
+        }
+
+        $title = $user->nickname;
+        $breadcrumbs = [
+            ['url' => route('top'), 'text' => 'トップページ'],
+            ['url' => route('user'), 'text' => 'インフルエンサー一覧'],
+            ['url' => '#', 'text' => $title],
+        ];
+
+        $auth_user_id = Auth::user() ? Auth::user()->id : 0;
+        $following = Follower::where('user_id', $auth_user_id)->where('follow_user_id', $id)->count();
+
+        Visit::create([
+            'user_id' => $auth_user_id,
+            'visit_user_id' => $id,
+        ]);
+
+        $user_images = $user->images;
+        $subImages = [];
+        foreach ($user_images as $user_image) {
+            $subImages[] = $user_image->image_url;
+        }
+
+        $main_category = $user->mainCategory ? $user->mainCategory->name : '';
+        $sub_category = $user->subCategory ? $user->subCategory->name : '';
+
+        $user = array(
+            'id' => $user->id,
+            'mainImage' => $user->image_url,
+            'subImages' => $subImages,
+            'name' => $user->nickname,
+            'role' => $auth_user_id ? Auth::user()->role : '',
+            'sns' => $user->sns,
+            'gender' => config('constants.arrGenders')[$user->gender],
+            'main_category' => $main_category,
+            'sub_category' => $sub_category,
+            'birthplace' => $user->birthplace,
+            'residence' => $user->residence,
+            'area' => $user->area,
+            'specialty' => nl2br($user->specialty),
+            'hobby' => nl2br($user->hobby),
+            'qualification' => $user->qualification,
+            'language' => $user->language,
+            'instagram_account' => $user->instagram_account,
+            'tiktok_account' => $user->tiktok_account,
+            'x_account' => $user->x_account,
+            'youtube_account' => $user->youtube_account,
+            'facebook_account' => $user->facebook_account,
+            'other_sns_account' => $user->other_sns_account,
+            'instagram_fan_count' => $user->instagram_fan_count,
+            'tiktok_fan_count' => $user->tiktok_fan_count,
+            'x_fan_count' => $user->x_fan_count,
+            'youtube_fan_count' => $user->youtube_fan_count,
+            'facebook_fan_count' => $user->facebook_fan_count,
+            'other_fan_count' => $user->other_fan_count,
+            'career_url_1' => $user->career_url_1,
+            'career_1' => nl2br($user->career_1),
+            'career_url_2' => $user->career_url_2,
+            'career_2' => nl2br($user->career_2),
+            'career_url_3' => $user->career_url_3,
+            'career_3' => $user->career_3,
+            'is_picked' => $user->is_picked,
+            'admin_comment' => nl2br($user->admin_comment),
+            'admin_pickup_category' => $user->admin_pickup_category,
+            'level' => $user->level,
+            'comment' => nl2br($user->comment),
+            'rating' => $user->sellingReviews->avg('rating'),
+            'ratesCount' => number_format($user->sellingReviews->count()),
+            'followerCount' => number_format($user->followerUsers()->count()),
+            'followCount' => number_format($user->followUsers()->count()),
+            'followed' => Follower::where('user_id', $auth_user_id)->where('follow_user_id', $user->id)->count() > 0 ? true : false,
+            'itemsCount' => number_format($user->items()->count()),
+            'user_id' => $auth_user_id,
+            'newMessageUrl' => Auth::user() ? route('message.new_message', ['id' => $user->id]) : route('login'),
+            'reportUrl' => route('user.report', ['id' => $user->id]),
+            'reviewsUrl' => route('user.reviews', ['id' => $user->id]),
+            'productUrl1' => route('item') . '?seller=' . $user->id . '&order=new',
+            'productUrl2' => route('item') . '?seller=' . $user->id . '&order=sale',
+        );
+
+        // $objRelationProducts = Item::whereHas('User', function($q) {
+        //     $q->whereIn('users.status', [0,1,2,3]);
+        // })->whereIn('items.status', [0,1])
+        // ->where('is_recommended', 1)
+        // ->where('category', $category)
+        // ->take(7)->get();
+        // $relationProducts = $this->convertItemsToArray($objRelationProducts);
+        $categories = Category::all()->toArray();
+        $relationUsers = User::where('is_recommended', 1)->whereIn('status', [0,1,2,3])->take(7)->get();
+        $relationUsers = $this->convertUsersToArray($relationUsers, '', 0, $categories);
+
+        // $objNewProducts = Item::whereHas('User', function($q) { $q->whereIn('users.status', [0,1,2]); })->whereIn('items.status', [0,1])->where('user_id', $id)->orderBy('created_at', 'DESC')->take(10)->get();
+        // $newProducts = $this->convertItemsToArray($objNewProducts);
+
+        // $objSellerProducts = Item::whereHas('User', function($q) { $q->whereIn('users.status', [0,1,2]); })->whereIn('items.status', [0,1])->where('user_id', $id)->orderBy('sale_count', 'DESC')->take(10)->get();
+        // $sellerProducts = $this->convertItemsToArray($objSellerProducts);
+
+        return view('user.show')->with(compact('title', 'breadcrumbs', 'user', 'relationUsers'));
+    }
+
+    public function showPartner($id) {
+        $user = User::find($id);
+        if (empty($user)) return redirect()->route('top');
+        if ($user->status == 4) {
+            return redirect()->route('top');
+        }
+
+        $title = $user->facility_name;
+        $breadcrumbs = [
+            ['url' => route('top'), 'text' => 'トップページ'],
+            ['url' => route('item'), 'text' => '案件一覧'],
+            ['url' => '#', 'text' => $title],
+        ];
+
+        $auth_user_id = Auth::user() ? Auth::user()->id : 0;
+        $following = Follower::where('user_id', $auth_user_id)->where('follow_user_id', $id)->count();
+
+        Visit::create([
+            'user_id' => $auth_user_id,
+            'visit_user_id' => $id,
+        ]);
+
+        $user_images = $user->images;
+        $subImages = [];
+        foreach ($user_images as $user_image) {
+            $subImages[] = $user_image->image_url;
+        }
+
+        $main_category = $user->mainCategory ? $user->mainCategory->name : '';
+        $sub_category = $user->subCategory ? $user->subCategory->name : '';
+
+        $user = array(
+            'id' => $user->id,
+            'mainImage' => $user->image_url,
+            'subImages' => $subImages,
+            'name' => $user->facility_name,
+            'role' => $auth_user_id ? Auth::user()->role : '',
+            'postcode' => $user->postcode,
+            'pref' => $user->pref_label,
+            'city' => $user->city,
+            'address' => $user->address,
+            'main_category' => $main_category,
+            'manager_name' => $user->manager_name,
+            'manager_position' => $user->manager_position,
+            'manager_phone' => $user->manager_phone,
+            'employee_count' => $user->employee_count,
+            'earning' => $user->earning,
+            'comment' => nl2br($user->comment),
+            'career' => $user->career,
+            'company_qualification' => $user->company_qualification,
+            'specialty' => $user->specialty,
+            
+            // 'rating' => $user->sellingReviews->avg('rating'),
+            // 'ratesCount' => number_format($user->sellingReviews->count()),
+            // 'followerCount' => number_format($user->followerUsers()->count()),
+            // 'followCount' => number_format($user->followUsers()->count()),
+            // 'followed' => Follower::where('user_id', $auth_user_id)->where('follow_user_id', $user->id)->count() > 0 ? true : false,
+            // 'itemsCount' => number_format($user->items()->count()),
+            // 'user_id' => $auth_user_id,
+            // 'newMessageUrl' => Auth::user() ? route('message.new_message', ['id' => $user->id]) : route('login'),
+            // 'reportUrl' => route('user.report', ['id' => $user->id]),
+            // 'reviewsUrl' => route('user.reviews', ['id' => $user->id]),
+            // 'productUrl1' => route('item') . '?seller=' . $user->id . '&order=new',
+            // 'productUrl2' => route('item') . '?seller=' . $user->id . '&order=sale',
+        );
+
+        $objRelationProducts = Item::whereHas('User', function($q) {
+            $q->whereIn('users.status', [0,1,2,3]);
+        })->whereIn('items.status', [0,1])
+        ->where('is_recommended', 1)
+        // ->where('category', $category)
+        ->take(7)->get();
+        $relationProducts = $this->convertItemsToArray($objRelationProducts);
+
+        // $objNewProducts = Item::whereHas('User', function($q) { $q->whereIn('users.status', [0,1,2]); })->whereIn('items.status', [0,1])->where('user_id', $id)->orderBy('created_at', 'DESC')->take(10)->get();
+        // $newProducts = $this->convertItemsToArray($objNewProducts);
+
+        // $objSellerProducts = Item::whereHas('User', function($q) { $q->whereIn('users.status', [0,1,2]); })->whereIn('items.status', [0,1])->where('user_id', $id)->orderBy('sale_count', 'DESC')->take(10)->get();
+        // $sellerProducts = $this->convertItemsToArray($objSellerProducts);
+        return view('user.show_partner')->with(compact('title', 'breadcrumbs', 'user', 'relationProducts'));
+    }
+
+    public function report($id)
+    {
+        $title = '報告する';
+        $user = User::find($id);
+        if (empty($user)) return redirect()->route('top');
+
+        $auth_user_id = Auth::user() ? Auth::user()->id : 0;
+
+        return view('user.report')->with(compact('title', 'user', 'auth_user_id'));
+    }
+
+    public function reportPost(Request $request)
+    {
+        if (!$this->multiSubmitCheck($request)) abort(409);
+
+        $data = $request->except('_token');
+        $this->validator_report($data);
+
+        $user_id = isset($data['user_id']) ? $data['user_id'] : 0;
+        $contact = new Contact();
+        $contact->user_id = $user_id;
+        $contact->title = $data['title'];
+        $contact->content = $data['content'];
+        $contact->save();
+
+        $id = $data['id'];
+        return redirect()->route('user.report', ['id' => $id])->withSuccess('報告しました！');
+    }
+
+    protected function validator_report(array $data)
+    {
+        return Validator::make($data, [
+            'content' => ['required', 'string'],
+        ])->validate();
+    }
+
+    public function reviews($id)
+    {
+        $objUser = User::find($id);
+        if (empty($objUser)) return redirect()->route('top');
+
+        $title = 'レビュー一覧';
+        $breadcrumbs = [
+            ['url' => route('top'), 'text' => 'トップページ'],
+            ['url' => route('user.show', ['id' => $objUser->id]), 'text' => $objUser->nickname],
+            ['url' => '#', 'text' => 'レビュー一覧'],
+        ];
+
+        $user = array(
+            'img' => $objUser->image_file_name ? asset('storage/' . $objUser->image_file_name) : asset('storage/mallento.png'),
+            'user_id' => Auth::user() ? Auth::user()->id : 0,
+            'id' => $objUser->id,
+            'name' => $objUser->nickname,
+            'comment' => nl2br($objUser->comment),
+            'rating' => $objUser->sellingReviews->avg('rating'),
+            'ratesCount' => number_format($objUser->sellingReviews->count()),
+            'followerCount' => number_format($objUser->followerUsers()->count()),
+            'followCount' => number_format($objUser->followUsers()->count()),
+            'itemsCount' => number_format($objUser->items()->count()),
+        );
+
+        $count = 2;
+
+        $objReviews = $objUser->sellingReviews()->paginate($this->page_num)->appends(request()->except('page'));;
+        $reviews = [];
+        foreach ($objReviews as $objReview) {
+            $review = array(
+                'nickname' => $objReview->user->nickname,
+                'title' => $objReview->item->title,
+                'datetime' => date('Y-m-d H:i:s', strtotime($objReview->created_at)),
+                'comment' => $objReview->comment,
+                'rating' => $objReview->rating,
+            );
+
+            $reviews[] = $review;
+        }
+
+        return view('user.reviews')->with(compact('title', 'breadcrumbs', 'user', 'reviews', 'objReviews'));
+    }
+
+    public function follow()
+    {
+        $pageTitle = 'お気に入り一覧';
+        $title = 'お気に入り一覧';
+        $breadcrumbs = [
+            ['url' => route('top'), 'text' => 'マイページ'],
+            ['url' => '#', 'text' => $pageTitle],
+        ];
+
+        $auth_user = User::find(Auth::user()->id);
+
+        $arrCategories = get_category_list();
+        $query = User::where('role', 'influencer')->whereHas('followers', function($q) use ($auth_user) {
+            $q->where('user_id', $auth_user->id);
+        })->get();
+        $follows = $this->convertUsersToArray($query, '', 0, $arrCategories);
+
+        return view('mypage.follow')->with(compact('title', 'pageTitle', 'breadcrumbs', 'follows'));
+    }
+
+    public function followPost(Request $request)
+    {
+        $follow_user_id = $request->follow_user_id;
+
+        $auth_user_id = Auth::user() ? Auth::user()->id : 0;
+        if ($auth_user_id == 0) {
+            return response()->json(['status' => -1]); // Guest
+        }
+
+        $user = User::find($follow_user_id);
+        if (empty($user)) {
+            return response()->json(['status' => -2]); // No Existing Data
+        }
+
+        if ($follow_user_id == $auth_user_id) {
+            return response()->json(['status' => -4]);
+        }
+
+        $follower = Follower::where('user_id', $auth_user_id)->where('follow_user_id', $follow_user_id)->first();
+        if ($follower) {
+            $follower->delete();
+            return response()->json(['status' => -3]);
+        }
+
+        Follower::create([
+            'user_id' => $auth_user_id,
+            'follow_user_id' => $follow_user_id,
+        ]);
+
+        return response()->json(['status' => 0]);
+    }
+}

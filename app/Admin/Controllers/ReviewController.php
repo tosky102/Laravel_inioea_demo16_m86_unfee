@@ -1,110 +1,90 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+
+namespace App\Admin\Controllers;
+
+use App\Models\Item;
+use App\Models\User;
+use Encore\Admin\Controllers\AdminController;
+use Encore\Admin\Form;
+use Encore\Admin\Grid;
+use Encore\Admin\Show;
+
+class ReviewController extends AdminController
+{
+    protected function title()
+    {
+        return trans('admin.reviews');
+    }
+
+    /**
+     *
+     * Make a grid builder.
+     *
+     * @return Grid
+     */
+    protected function grid()
+    {
+        /** @var \App\Models\Review $reviewsModel */
+        $reviewsModel = config('admin.database.reviews_model');
+        $grid = new Grid(new $reviewsModel());
+
+        $grid->column('id', trans('admin.reviews_id'))->sortable();
+        $grid->column('user.name', trans('admin.reviews_user'));
+        $grid->column('toUser.name', trans('admin.reviews_to_user'));
+        $grid->column('toUser.image_url', trans('admin.influencer_image'))->image('', 100, 100);
+        $grid->column('comment', trans('admin.reviews_comment'))->display(function ($value) {
+            return nl2br($value);
+        });
+        $grid->column('comment_secret', trans('admin.reviews_comment_secret'))->display(function ($value) {
+            return nl2br($value);
+        });
+        $grid->column('rating_text', trans('admin.reviews_rating'));
+
+        $grid->model()->orderBy('created_at', 'desc');
+        return $grid;
+    }
+
+    protected function form()
+    {
+        /** @var \App\Models\Review $reviewsModel */
+        $reviewsModel = config('admin.database.reviews_model');
+        $form = new Form(new $reviewsModel());
+
+        $form->display('id', 'ID');
+        $form->select('user_id', trans('admin.reviews_user'))->options(User::where('role', 'company')->pluck('name', 'id'))->rules('required');
+        $form->select('to_user_id', trans('admin.reviews_to_user'))->options(User::where('role', 'influencer')->pluck('name', 'id'))->rules('required');
+        $form->select('rating', trans('admin.reviews_rating'))->options(config('constants.arrRatingScore'))->default('3')->rules('required');
+        $form->textarea('comment', trans('admin.reviews_comment'))->rules('required')->rules('required');
+        $form->textarea('comment_secret', trans('admin.reviews_comment_secret'));
+        $form->display('created_date', trans('admin.reviews_date'));
+
+        return $form;
+    }
+
+    public function detail($id)
+    {
+        $reviewsModel = config('admin.database.reviews_model');
+        $review = $reviewsModel::findOrFail($id);
+
+        $show = new Show($review);
+        
+        $show->field('id', trans('admin.reviews_id'));
+        $show->field('user.name', trans('admin.reviews_user'));
+        $show->field('toUser.name', trans('admin.reviews_to_user'));
+        $show->field('comment', trans('admin.reviews_comment'));
+        $show->field('comment_secret', trans('admin.reviews_comment_secret'));
+        $show->field('rating', trans('admin.reviews_rating'))->as(function ($value) {
+            return config('constants.arrRatingScore')[$value];
+        });
+        
+        $show->field('created_at', trans('admin.reviews_date'))->as(function ($value) {
+            return date('Y-m-d H:i:s', strtotime($value));
+        });
+        // $show->panel()
+        //     ->tools(function ($tools) {
+        //         $tools->disableEdit();
+        //     });
+        return $show;
+    }
+}

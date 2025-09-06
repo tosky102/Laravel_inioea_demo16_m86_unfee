@@ -1,257 +1,189 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Admin\Controllers;
+
+use App\Models\Browse;
+use App\Models\Item;
+use App\Models\OrderItem;
+use App\Models\Room;
+use App\Models\User;
+use App\Models\Visit;
+use Carbon\Carbon;
+use Carbon\CarbonPeriod;
+use Encore\Admin\Controllers\AdminController;
+use Encore\Admin\Layout\Content;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
+
+class AnalysisController extends AdminController
+{
+    public function index(Content $content)
+    {
+        $month = request()->get('month', date('Y-m'));
+        $initialItem = Item::orderBy('created_at', 'asc')->first();
+        if ($initialItem) {
+            $initialMonth = Carbon::parse($initialItem->created_at)->format('Y-m');
+        } else {
+            $initialMonth = date('Y-m');
+        }
+
+        $start = Carbon::parse($initialMonth);
+        $end = Carbon::now();
+        $period = CarbonPeriod::create($start, '1 month', $end);
+        $months = [];
+        foreach ($period as $dt) {
+            $months[] = $dt->format('Y-m');
+        }
+
+        $totalMatchingCount = OrderItem::where('matched_at', '<=', Carbon::parse($month)->endOfMonth())->count();
+        $matchingData = OrderItem::where('matched_at', '<=', Carbon::parse($month)->endOfMonth())
+            ->groupBy('ym')
+            ->select(DB::raw("DATE_FORMAT(matched_at, '%Y年%m月') as ym"), DB::raw('COUNT(*) as count'))
+            ->pluck('count', 'ym');
+
+        $totalPVCount = Browse::where('created_at', '<=', Carbon::parse($month)->endOfMonth())->count();
+        $pvData = Browse::where('created_at', '<=', Carbon::parse($month)->endOfMonth())
+            ->groupBy('ym')
+            ->select(DB::raw("DATE_FORMAT(created_at, '%Y年%m月') as ym"), DB::raw('COUNT(*) as count'))
+            ->pluck('count', 'ym');
+
+        // 新規ユーザー数
+        $currentNewUsers = User::whereBetween('created_at', [Carbon::parse($month)->startOfMonth(), Carbon::parse($month)->endOfMonth()])->count();
+        $beforeNewUsers = User::whereBetween('created_at', [Carbon::parse($month)->startOfMonth()->subMonth(), Carbon::parse($month)->endOfMonth()->subMonth()])->count();
+        $currentNewUserPercentage = $beforeNewUsers > 0 ? ($currentNewUsers - $beforeNewUsers) * 100.0 / $beforeNewUsers : '-';
+        
+        // レピーター数
+        $currentOldUsers = User::where('created_at', '<', Carbon::parse($month)->startOfMonth()->format('Y-m-d 00:00:00'))->count();
+        $beforeOldUsers = User::where('created_at', '<', Carbon::parse($month)->startOfMonth()->subMonth()->format('Y-m-d 00:00:00'))->count();
+        $currentOldUserPercentage = $beforeOldUsers > 0 ? ($currentOldUsers - $beforeOldUsers) * 100.0 / $beforeOldUsers : '-';
+        // dd($currentOldUserPercentage);
+
+        // すべての訪問者数
+        $currentAllUsers = $currentNewUsers + $currentOldUsers;
+        $beforeAllUsers = $beforeNewUsers + $beforeOldUsers;
+        $currentAllUserPercentage = $beforeAllUsers > 0 ? ($currentAllUsers - $beforeAllUsers) * 100.0 / $beforeAllUsers : '-';
+
+        // 詳細ページ訪問者数
+        $currentDetailPVCount = User::whereHas('visit_users', function($query) use ($month) {
+            $query->whereBetween('created_at', [Carbon::parse($month)->startOfMonth(), Carbon::parse($month)->endOfMonth()]);
+        })->count();
+        $beforeDetailPVCount = User::whereHas('visit_users', function($query) use ($month) {
+            $query->whereBetween('created_at', [Carbon::parse($month)->startOfMonth()->subMonth()->format('Y-m-d 00:00:00'), Carbon::parse($month)->endOfMonth()->subMonth()->format('Y-m-d 23:59:59')]);
+        })->count();
+        $currentDetailPVPercentage = $beforeDetailPVCount > 0 ? ($currentDetailPVCount - $beforeDetailPVCount) * 100.0 / $beforeDetailPVCount : '-';
+
+        // 詳細ページ遷移率
+        $currentDetailPVRate = $currentAllUsers > 0 ? $currentDetailPVCount * 100.0 / $currentAllUsers : '-';
+        $beforeDetailPVRate = $beforeAllUsers > 0 ? $beforeDetailPVCount * 100.0 / $beforeAllUsers : '-';
+        $currentDetailPVRatePercentage = $currentDetailPVRate !== '-' && $beforeDetailPVRate !== '-' ? $currentDetailPVRate - $beforeDetailPVRate : '-';
+
+        // マッチングしたユーザー数
+        $currentMatchingUsers = User::whereHas('items', function ($query) use ($month) {
+            $query->whereHas('order_items', function ($subquery) use ($month) {
+                $subquery->whereBetween('matched_at', [Carbon::parse($month)->startOfMonth(), Carbon::parse($month)->endOfMonth()]);
+            });
+        })->count();
+        $beforeMatchingUsers = User::whereHas('items', function ($query) use ($month) {
+            $query->whereHas('order_items', function ($subquery) use ($month) {
+                $subquery->whereBetween('matched_at', [Carbon::parse($month)->startOfMonth()->subMonth(), Carbon::parse($month)->endOfMonth()->subMonth()]);
+            });
+        })->count();
+        $currentMatchingUserPercentage = $beforeMatchingUsers > 0 ? ($currentMatchingUsers - $beforeMatchingUsers) * 100.0 / $beforeMatchingUsers : '-';
+
+        // 詳細ページ訪問者のマッチング率
+        $currentDetailPVMatchingRate = $currentDetailPVCount > 0 ? $currentMatchingUsers * 100.0 / $currentDetailPVCount : '-';
+        $beforeDetailPVMatchingRate = $beforeDetailPVCount > 0 ? $beforeMatchingUsers * 100.0 / $beforeDetailPVCount : '-';
+        $currentDetailPVMatchingRatePercentage = $currentDetailPVMatchingRate !== '-' && $beforeDetailPVMatchingRate !== '-' ? $currentDetailPVMatchingRate - $beforeDetailPVMatchingRate : '-';
+
+        // 新規案件数
+        $currentNewItems = Item::whereBetween('created_at', [Carbon::parse($month)->startOfMonth(), Carbon::parse($month)->endOfMonth()])->count();
+        $beforeNewItems = Item::whereBetween('created_at', [Carbon::parse($month)->startOfMonth()->subMonth(), Carbon::parse($month)->endOfMonth()->subMonth()])->count();
+        $currentNewItemPercentage = $beforeNewItems > 0 ? ($currentNewItems - $beforeNewItems) * 100.0 / $beforeNewItems : '-';
+
+        // 既存案件数
+        $currentOldItems = Item::where('created_at', '<', Carbon::parse($month)->startOfMonth()->format('Y-m-d 00:00:00'))->count();
+        $beforeOldItems = Item::where('created_at', '<', Carbon::parse($month)->startOfMonth()->subMonth()->format('Y-m-d 00:00:00'))->count();
+        $currentOldItemPercentage = $beforeOldItems > 0 ? ($currentOldItems - $beforeOldItems) * 100.0 / $beforeOldItems : '-';
+
+        // すべての案件数
+        $currentAllItems = $currentNewItems + $currentOldItems;
+        $beforeAllItems = $beforeNewItems + $beforeOldItems;
+        $currentAllItemPercentage = $beforeAllItems > 0 ? ($currentAllItems - $beforeAllItems) * 100.0 / $beforeAllItems : '-';
+
+        // 提案を受けた案件数
+        $currentProposedItems = Item::whereHas('rooms', function($query) use ($month) {
+            $query->whereBetween('suggested_at', [Carbon::parse($month)->startOfMonth(), Carbon::parse($month)->endOfMonth()]);
+        })->count();
+        $beforeProposedItems = Item::whereHas('rooms', function($query) use ($month) {
+            $query->whereBetween('suggested_at', [Carbon::parse($month)->startOfMonth()->subMonth(), Carbon::parse($month)->endOfMonth()->subMonth()]);
+        })->count();
+        $currentProposedItemPercentage = $beforeProposedItems > 0 ? ($currentProposedItems - $beforeProposedItems) * 100.0 / $beforeProposedItems : '-';
+
+        // 案件あたり提案率
+        $currentProposedItemRate = $currentAllItems > 0 ? $currentProposedItems * 100.0 / $currentAllItems : '-';
+        $beforeProposedItemRate = $beforeAllItems > 0 ? $beforeProposedItems * 100.0 / $beforeAllItems : '-';
+        $currentProposedItemRatePercentage = $currentProposedItemRate !== '-' && $beforeProposedItemRate !== '-' ? $currentProposedItemRate - $beforeProposedItemRate : '-';
+
+        // 案件あたり平均提案率
+        $currentTotalProposes = Room::whereBetween('suggested_at', [Carbon::parse($month)->startOfMonth(), Carbon::parse($month)->endOfMonth()])->count();
+        $currentAverageProposedItemRate = $currentAllItems > 0 ? $currentTotalProposes * 100.0 / $currentAllItems : '-';
+        $beforeTotalProposes = Room::whereBetween('suggested_at', [Carbon::parse($month)->startOfMonth()->subMonth(), Carbon::parse($month)->endOfMonth()->subMonth()])->count();
+        $beforeAverageProposedItemRate = $beforeAllItems > 0 ? $beforeTotalProposes * 100.0 / $beforeAllItems : '-';
+        $currentAverageProposedItemRatePercentage = $currentAverageProposedItemRate !== '-' && $beforeAverageProposedItemRate !== '-' ? $currentAverageProposedItemRate - $beforeAverageProposedItemRate : '-';
+
+        // マッチングした案件数
+        $currentMatchingItems = Item::whereHas('order_items', function($subquery) use ($month) {
+            $subquery->whereBetween('matched_at', [Carbon::parse($month)->startOfMonth(), Carbon::parse($month)->endOfMonth()]);
+        })->count();
+        $beforeMatchingItems = Item::whereHas('order_items', function($subquery) use ($month) {
+            $subquery->whereBetween('matched_at', [Carbon::parse($month)->startOfMonth()->subMonth(), Carbon::parse($month)->endOfMonth()->subMonth()]);
+        })->count();
+        $currentMatchingItemPercentage = $beforeMatchingItems > 0 ? ($currentMatchingItems - $beforeMatchingItems) * 100.0 / $beforeMatchingItems : '-';
+
+        // 提案を受けた案件のマッチング率
+        $currentProposedItemMatchingRate = $currentProposedItems > 0 ? $currentMatchingItems * 100.0 / $currentProposedItems : '-';
+        $beforeProposedItemMatchingRate = $beforeProposedItems > 0 ? $beforeMatchingItems * 100.0 / $beforeProposedItems : '-';
+        $currentProposedItemMatchingRatePercentage = $currentProposedItemMatchingRate !== '-' && $beforeProposedItemMatchingRate !== '-' ? $currentProposedItemMatchingRate - $beforeProposedItemMatchingRate : '-';
+
+        $data = [
+            'currentNewUsers' => $currentNewUsers,
+            'currentOldUsers' => $currentOldUsers,
+            'currentAllUsers' => $currentAllUsers,
+            'currentDetailPVCount' => $currentDetailPVCount,
+            'currentDetailPVRate' => $currentDetailPVRate,
+            'currentMatchingUsers' => $currentMatchingUsers,
+            'currentDetailPVMatchingRate' => $currentDetailPVMatchingRate,
+
+            'currentMatchingUserPercentage' => $currentMatchingUserPercentage,
+            'currentNewUserPercentage' => $currentNewUserPercentage,
+            'currentOldUserPercentage' => $currentOldUserPercentage,
+            'currentAllUserPercentage' => $currentAllUserPercentage,
+            'currentDetailPVPercentage' => $currentDetailPVPercentage,
+            'currentDetailPVRatePercentage' => $currentDetailPVRatePercentage,
+            'currentDetailPVMatchingRatePercentage' => $currentDetailPVMatchingRatePercentage,
+            
+            'currentNewItems' => $currentNewItems,
+            'currentOldItems' => $currentOldItems,
+            'currentAllItems' => $currentAllItems,
+            'currentProposedItems' => $currentProposedItems,
+            'currentMatchingItems' => $currentMatchingItems,
+            'currentProposedItemRate' => $currentProposedItemRate,
+            'currentAverageProposedItemRate' => $currentAverageProposedItemRate,
+            'currentProposedItemMatchingRate' => $currentProposedItemMatchingRate,
+            
+            'currentNewItemPercentage' => $currentNewItemPercentage,
+            'currentOldItemPercentage' => $currentOldItemPercentage,
+            'currentAllItemPercentage' => $currentAllItemPercentage,
+            'currentProposedItemPercentage' => $currentProposedItemPercentage,
+            'currentMatchingItemPercentage' => $currentMatchingItemPercentage,
+            'currentProposedItemRatePercentage' => $currentProposedItemRatePercentage,
+            'currentAverageProposedItemRatePercentage' => $currentAverageProposedItemRatePercentage,
+            'currentProposedItemMatchingRatePercentage' => $currentProposedItemMatchingRatePercentage,
+        ];
+
+        return $content
+            ->header(trans('admin.analysis'))
+            ->description(' ')
+            ->body(view('admin.analysis', compact('month', 'months', 'totalMatchingCount', 'totalPVCount', 'matchingData', 'pvData', 'data')));
+    }
+}

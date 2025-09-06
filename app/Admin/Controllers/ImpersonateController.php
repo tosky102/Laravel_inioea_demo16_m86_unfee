@@ -1,32 +1,25 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+
+namespace App\Admin\Controllers;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+
+class ImpersonateController extends Controller
+{
+    /**
+     * @param Request $request
+     * @param $id
+     * @return \Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
+     */
+    public function impersonate(Request $request, $id)
+    {
+        $userModel = config('admin.database.front_users_model');
+        $user = $userModel::findOrFail($id);
+
+        Auth::guard('web')->login($user);
+
+        return redirect('/');
+    }
+}

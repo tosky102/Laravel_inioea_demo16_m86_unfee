@@ -1,103 +1,152 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-zsbBvbCa3mXDbobL8RduVLty
+<?php
+
+namespace App\Http\Controllers\Auth;
+
+use App\Http\Controllers\Controller;
+use App\Jobs\SendMailJob;
+use App\Providers\RouteServiceProvider;
+use App\Models\User;
+use Illuminate\Auth\Events\Registered;
+use Illuminate\Foundation\Auth\RegistersUsers;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Validator;
+use Illuminate\Validation\Rule;
+
+class RegisterController extends Controller
+{
+    /*
+    |--------------------------------------------------------------------------
+    | Register Controller
+    |--------------------------------------------------------------------------
+    |
+    | This controller handles the registration of new users as well as their
+    | validation and creation. By default this controller uses a trait to
+    | provide this functionality without requiring any additional code.
+    |
+    */
+
+    use RegistersUsers;
+
+    /**
+     * Where to redirect users after registration.
+     *
+     * @var string
+     */
+    protected $redirectTo = RouteServiceProvider::MYPAGE;
+
+    /**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        parent::__construct();
+        $this->middleware('guest');
+    }
+
+    /**
+     * Get a validator for an incoming registration request.
+     *
+     * @param  array  $data
+     * @return \Illuminate\Contracts\Validation\Validator
+     */
+    protected function validator(array $data)
+    {
+        return Validator::make($data, [
+            // 'name' => ['required', 'string', 'max:50'],
+            // 'name_kana' => ['required', 'string', 'max:50', 'regex:/^(?:\xE3\x82[\xA1-\xBF]|\xE3\x83[\x80-\xB6]|\xE3\x83\xBC|\x20|\xE3\x80\x80)+$/'],
+            // 'company' => ['nullable', 'string', 'max:50'],
+            // 'postcode' => ['required', 'numeric', 'digits:7'],
+            // 'address' => ['required', 'string', 'max:100'],
+            // 'phone' => ['required', 'numeric', 'digits_between:10,11'],
+            // 'gender' => ['required'],
+            // 'birthday' => ['required', 'string', 'max:100'],
+            // 'nickname' => ['required', 'string', 'max:15'],
+            // 'comment' => ['string', 'max:1000'],
+            'email' => ['required', 'string', 'email', 'max:100',
+                Rule::unique('users')->where(function ($query) use ($data) {
+                    return $query->where('email', $data['email'])->whereIn('status', [0, 1,2])->where('deleted_at', NULL);
+                }),
+//                'unique:users,email,NULL,id,deleted_at,NULL,status,1:2',
+                'confirmed'],
+            'password' => ['required', 'string', 'min:8', 'confirmed'],
+        ])->validate();
+    }
+
+    /**
+     * Create a new user instance after a valid registration.
+     *
+     * @param  array  $data
+     * @return \App\Models\User
+     */
+    protected function create(array $data)
+    {
+        $save_data = $data;
+        $save_data['password'] = Hash::make($data['password']);
+        return User::create($save_data);
+    }
+
+    public function registerTerms()
+    {
+        $title = '新規登録';
+        return view('auth.register_terms')->with(compact('title'));
+    }
+
+    public function showRegistrationForm()
+    {
+        $data = session('sessRegister');
+        $title = '新規登録';
+        return view('auth.register')->with(compact('data', 'title'));
+    }
+
+
+    public function register(Request $request)
+    {
+        $this->validator($request->all());
+
+        $data = $request->except('_token');
+
+        $request->session()->start();
+        $request->session()->put('sessRegister', $data);
+        $request->session()->save();
+
+        return redirect(route('register_confirm'));
+    }
+
+    public function showRegistrationConfirm()
+    {
+        $title = '新規登録（確認）';
+        $data = session('sessRegister');
+        return view('auth.register_confirm')->with(compact('title', 'data'));
+    }
+
+    public function registerConfirm(Request $request)
+    {
+        $data = session('sessRegister');
+
+         if ($user = $this->create($data)) {
+
+             event(new Registered($user));
+
+             return redirect(route('register_complete'));
+         } else {
+             return redirect(route('register'));
+         }
+    }
+
+    public function showRegistrationComplete()
+    {
+        $title = '新規登録（完成）';
+        session(['sessRegister' => null]);
+        return view('auth.register_complete')->with(compact('title'));
+    }
+
+    public function showRegistrationCompanyForm()
+    {
+        $data = session('sessCompanyRegister');
+        $title = '新規登録（企業）';
+        return view('auth.register_company')->with(compact('title'));
+    }
+}
