@@ -15,6 +15,7 @@ use App\Models\Visit;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
 
 class UserController extends Controller
@@ -72,6 +73,7 @@ class UserController extends Controller
         $arrCategories = Category::get()->pluck('name', 'id');
         $objUsers = $query->paginate($count)->appends(request()->except('page'));
         $startIndex = $count * ($objUsers->currentPage() - 1);
+        Log::info($objUsers->toArray());
         $users = $this->convertUsersToArray($objUsers, '', $startIndex, $arrCategories);
 
         $arrAreas = config('constants.arrArea');
