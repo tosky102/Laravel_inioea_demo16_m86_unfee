@@ -73,7 +73,6 @@ class UserController extends Controller
         $arrCategories = Category::get()->pluck('name', 'id');
         $objUsers = $query->paginate($count)->appends(request()->except('page'));
         $startIndex = $count * ($objUsers->currentPage() - 1);
-        Log::info($objUsers->toArray());
         $users = $this->convertUsersToArray($objUsers, '', $startIndex, $arrCategories);
 
         $arrAreas = config('constants.arrArea');
