@@ -342,7 +342,7 @@
                                 @endif
                                 <div class="mypage-sidebar-container">
                                     <div class="mypage-sidebar-item">
-                                        <a href="{{ route('user') }}">受注者/求職者一覧</a>
+                                        <a href="{{ route('user') }}">インフルエンサー一覧</a>
                                     </div>
                                     <div class="mypage-sidebar-item">
                                         <a href="{{ route('user.follow') }}">お気に入り一覧</a>
