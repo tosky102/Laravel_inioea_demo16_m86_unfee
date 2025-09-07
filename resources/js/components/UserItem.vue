@@ -20,7 +20,7 @@
         <a :href="u_item.url">{{ u_item.name }}</a>
       </h2>
 
-      <div>
+      <div class="user-item-wrapper">
         <p class="user-item-info-item">
           <span class="user-item-info-item-label">勤務エリア：</span>
           <span class="user-item-info-item-value">{{ u_item.area }}</span>
@@ -125,27 +125,6 @@ export default {
   overflow: hidden;
 }
 
-@media (max-width: 768px) {
-  .user-item {
-    width: calc(50% - 4px);
-    display: inline-block;
-    margin-bottom: 15px;
-  }
-
-  .user-item-image {
-    width: 100%;
-    height: 160px;
-  }
-
-  .user-items-container .user-item:nth-child(even) {
-    margin-right: 0;
-  }
-
-  .user-items-container .user-item:nth-child(odd) {
-    margin-right: 8px;
-  }
-}
-
 .user-item-image:hover {
   opacity: 0.5;
 }
@@ -166,6 +145,10 @@ export default {
   line-height: 19px;
   height: 38px;
   margin-bottom: 0;
+}
+
+.user-item-info .user-item-wrapper {
+  min-height: 100px;
 }
 
 .user-item-info p.price {
@@ -261,16 +244,6 @@ export default {
   width: 23px;
   color: #fff;
   background-color: #969696;
-}
-
-@media (max-width: 768px) {
-  .sale-status-first,
-  .sale-status-second,
-  .sale-status-third,
-  .sale-status-other {
-    left: 0;
-    top: 0;
-  }
 }
 </style>
 
@@ -384,5 +357,46 @@ export default {
 
 .user-item-info-item-value {
   flex: 1;
+}
+
+
+@media (max-width: 768px) {
+  .user-item {
+    width: calc(50% - 8px);
+    display: inline-block;
+    margin-bottom: 15px;
+  }
+  .user-item:nth-child(2n) {
+    margin-right: 0;
+  }
+
+  .user-item-image {
+    width: 100%;
+    height: 160px;
+  }
+
+  .user-item-info .user-item-wrapper {
+    min-height: 110px;
+  }
+
+  .user-items-container .user-item:nth-child(even) {
+    margin-right: 0;
+  }
+
+  .user-items-container .user-item:nth-child(odd) {
+    margin-right: 8px;
+  }
+
+  .sns-list a {
+    max-width: 32px
+  }
+
+  .sale-status-first,
+  .sale-status-second,
+  .sale-status-third,
+  .sale-status-other {
+    left: 0;
+    top: 0;
+  }
 }
 </style>
