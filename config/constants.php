@@ -586,7 +586,7 @@ return [
         'X' => 'X',
         'YouTube' => 'YouTube',
         'Facebook' => 'Facebook',
-        'そのほか' => 'そのほか',
+        'そのほか' => 'その他',
     ],
     'arrIsEmergency' => [
         '1' => '急募',
