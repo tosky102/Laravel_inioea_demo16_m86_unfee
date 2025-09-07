@@ -647,7 +647,7 @@
                             {{-- ニックネーム --}}
                             <div class="form-group row">
                                 <label for="nickname" class="col-md-4 col-form-label text-md-right">
-                                    {{ __('Nickname') }}<span class="text-danger">（必須）</span>
+                                    {{ __('Influencer Name') }}<span class="text-danger">（必須）</span>
                                 </label>
                                 <div class="col-md-6">
                                     <input id="nickname" type="text"
