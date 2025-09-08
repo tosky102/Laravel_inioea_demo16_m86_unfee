@@ -161,7 +161,7 @@
                     <div class="detail-item" v-if="u_item.career_url_1">
                       <div class="detail-item-label" v-if="u_item.career_url_1">URL</div>
                       <div class="detail-item-value" v-if="u_item.career_url_1">
-                        {{ u_item.career_url_1 }}
+                        <a :href="u_item.career_url_1" target="_blank">{{ u_item.career_url_1 }}</a>
                       </div>
                     </div>
                     <div class="detail-item" v-if="u_item.career_1">
@@ -173,7 +173,7 @@
                     <div class="detail-item" v-if="u_item.career_url_2">
                       <div class="detail-item-label" v-if="u_item.career_url_2">URL</div>
                       <div class="detail-item-value" v-if="u_item.career_url_2">
-                        {{ u_item.career_url_2 }}
+                        <a :href="u_item.career_url_1" target="_blank">{{ u_item.career_url_2 }}</a>
                       </div>
                     </div>
                     <div class="detail-item" v-if="u_item.career_2">
@@ -185,7 +185,7 @@
                     <div class="detail-item" v-if="u_item.career_url_3">
                       <div class="detail-item-label" v-if="u_item.career_url_3">URL</div>
                       <div class="detail-item-value" v-if="u_item.career_url_3">
-                        {{ u_item.career_url_3 }}
+                        <a :href="u_item.career_url_1" target="_blank">{{ u_item.career_url_3 }}</a>
                       </div>
                     </div>
                     <div class="detail-item" v-if="u_item.career_3">
@@ -1419,6 +1419,7 @@ export default {
   flex: 1;
   line-height: 1.5;
   height: fit-content;
+  line-break: anywhere;
 }
 
 @media (max-width: 768px) {
