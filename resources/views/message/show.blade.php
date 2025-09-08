@@ -64,6 +64,8 @@
                                     value="{{ old('images.4.url', isset($data['images'][4]['url']) ? $data['images'][4]['url'] : '') }}" />
                                 <input type="hidden" id="images_4_path" name="images[4][path]"
                                     value="{{ old('images.4.path', isset($data['images'][4]['path']) ? $data['images'][4]['path'] : '') }}" />
+                                
+                                <input type="hidden" name="public_flag" value="0">
             
                                 <div class="form-group row">
                                     <label for="title"
