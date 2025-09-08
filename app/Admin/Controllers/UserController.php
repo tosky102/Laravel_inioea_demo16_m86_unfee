@@ -82,7 +82,7 @@ class UserController extends AdminController
             return md5(uniqid()) . '.jpg';
         })->thumbnail('', $width = 800, $height = 800);
         $form->text('name', trans('admin.user_name'))->rules('required');
-        $form->text('nickname', trans('admin.nickname'))->rules('required');
+        $form->text('nickname', trans('admin.influencer_name'))->rules('required');
         $form->text('email', trans('admin.email'))->rules('required');
         // パスワードは管理画面で入力があればハッシュ化して保存。編集時は未入力で既存パスワードを維持
         $form->password('password', trans('Password'))->rules('required|max:100');
