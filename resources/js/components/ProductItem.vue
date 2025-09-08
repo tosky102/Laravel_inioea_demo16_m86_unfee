@@ -135,7 +135,7 @@ export default {
         font-weight: bold;
         color: #8a8a8a;
         overflow: hidden;
-        text-overflow: ellipse;
+        text-overflow: ellipsis;
         white-space: nowrap;
     }
 
