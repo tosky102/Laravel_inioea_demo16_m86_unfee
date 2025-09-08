@@ -227,7 +227,7 @@
                         <img src="{{ $row->fromUser->image_url }}" />
                         <div class="message-detail-text">
                           <h5 class="title-color display-table o-textNote__title f14">{{ date('Y.m.d', strtotime($row->created_at)) }}</h5>
-                          <p class="f14 display-table o-textNote__description" style="margin-top: 4px; text-align: left">
+                          <p class="f14 display-table o-textNote__description" style="margin-top: 4px; text-align: left; line-break: anywhere;">
                             {!! preg_replace('@(https?://([-\w\.]+[-\w])+(:\d+)?(/([\w/_\.#-]*(\?\S+)?[^\.\s])?)?)@', '<a href="$1" target="_blank">$1</a>', nl2br(e($row->comment))) !!}
                           </p>
                         </div>
