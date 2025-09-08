@@ -130,7 +130,7 @@ class MessageController extends Controller
         }
         if ($orderItem) {
             if ($orderItem->status == 0) {
-                $cancelTemplate = MessageTemplate::where('type', MessageTemplate::TEMPLATE_REJECT)->first()->template;
+                $cancelTemplate = MessageTemplate::where('type', MessageTemplate::TEMPLATE_REJECT)->first() ? MessageTemplate::where('type', MessageTemplate::TEMPLATE_REJECT)->first()->template : '';
             } else {
                 $cancelTemplate = '';
             }
