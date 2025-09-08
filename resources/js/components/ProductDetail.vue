@@ -1327,7 +1327,8 @@ export default {
 }
 
 .detail-col-image {
-  width: 100%;
+  width: 480px;
+  margin: 0 auto;
 }
 
 .detail-col-content {

@@ -1175,8 +1175,8 @@ export default {
 }
 
 .detail-col-image {
-  /* width: 583px; */
-  width: 100%;
+  width: 480px;
+  margin: 0 auto;
 }
 
 .detail-col-content {
@@ -1186,10 +1186,6 @@ export default {
 }
 
 @media (max-width: 1200px) {
-  .detail-col-image {
-    width: 497px;
-  }
-
   .detail-col-content {
     width: 100%;
     padding-left: 20px;
@@ -1199,7 +1195,6 @@ export default {
 
 @media (max-width: 992px) {
   .detail-col-image {
-    width: 55%;
     padding-left: 15px;
     padding-right: 15px;
   }
