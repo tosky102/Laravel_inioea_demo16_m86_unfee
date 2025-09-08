@@ -134,6 +134,9 @@ export default {
         font-size: 13px;
         font-weight: bold;
         color: #8a8a8a;
+        overflow: hidden;
+        text-overflow: ellipse;
+        white-space: nowrap;
     }
 
     .product-item-station {
