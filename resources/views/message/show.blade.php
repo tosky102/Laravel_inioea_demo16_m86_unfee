@@ -28,7 +28,7 @@
     <div class="modal" id="voteModal">
         <div class="modal-dialog modal-xl">
           <div class="modal-content">
-            <form action="/item/vote" id="voteForm" method="post">
+            <form action="{{ route('item.vote') }}" id="voteForm" method="post">
                 @csrf
                 <input type="hidden" name="order_item_id" value="{{ $orderItem->id }}">
                 <input type="hidden" name="partner_id" value="{{ $partner->id }}">
