@@ -32,7 +32,9 @@ class CompanyController extends AdminController
         $grid->column('id', 'ID')->sortable();
         $grid->column('name', trans('admin.company'));
         $grid->column('email', trans('admin.email'));
-        $grid->column('status_text', trans('admin.userrequest_status'));
+        $grid->column('status', trans('admin.userrequest_status'))->display(function ($status) {
+            return $status == 3 ? '承認済み' : '承認待ち';
+        });
         $grid->column('created_at', trans('admin.created_at'))->display(function ($created_at) {
             return date('Y-m-d H:i:s', strtotime($created_at));
         });
