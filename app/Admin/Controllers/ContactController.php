@@ -33,7 +33,7 @@ class ContactController extends AdminController
 
         $grid->column('id', 'ID');
         $grid->column('user.id', trans('admin.contacts_user_id'));
-        $grid->column('users.contact_name', trans('admin.contacts_user'));
+        $grid->column('user.contact_name', trans('admin.contacts_user'));
         $grid->column('title', trans('admin.contacts_title'));
         $grid->column('created_at', trans('admin.contacts_date'))->display(function ($created_at) {
             return date('Y-m-d H:i:s', strtotime($created_at));
