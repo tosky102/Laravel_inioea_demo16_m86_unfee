@@ -76,7 +76,7 @@ class TopController extends Controller
         $objNewProducts = Item::whereHas('user', function($q) {
             $q->where('status', 3)
                 ->where('role', 'company');
-        })->public()->latest()->limit(20)->get();
+        })->onlyPublic()->latest()->limit(20)->get();
         $newProductSlider = [
             'settings' => $itemSliderSetting,
             'contents' => $this->convertItemsToArray($objNewProducts, 'new')

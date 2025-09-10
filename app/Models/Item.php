@@ -192,6 +192,11 @@ class Item extends Model
         return $query;
     }
 
+    public function scopeOnlyPublic($query)
+    {
+        return $query->where('public_flag', 1);
+    }
+
     public static function boot()
     {
         parent::boot();

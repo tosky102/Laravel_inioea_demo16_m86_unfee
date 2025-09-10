@@ -46,7 +46,7 @@ class ItemController extends Controller
         ];
         $title = '案件一覧';
 
-        $objItems = Item::public();
+        $objItems = Item::onlyPublic();
         if ($isEmergency) {
             $objItems = $objItems->where('is_emergency', $isEmergency);
         }
