@@ -366,7 +366,7 @@ class User extends Authenticatable implements MustVerifyEmail, CanResetPasswordC
         if ($this->user_role == 'influencer') {
             return $this->nickname;
         } else {
-            return $this->name;
+            return $this->facility_name;
         }
     }
 
