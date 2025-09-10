@@ -30,7 +30,7 @@ class UserController extends AdminController
         $grid = new Grid(new $userModel());
 
         $grid->column('id', 'ID')->sortable();
-        $grid->column('name', trans('admin.influencer_name'));
+        $grid->column('name', trans('admin.user_name'));
         $grid->column('email', trans('admin.email'));
         $grid->column('instagram_account', trans('admin.instagram_account'))->display(function ($instagram_account) {
             return $instagram_account ? '@' . $instagram_account : '-';
