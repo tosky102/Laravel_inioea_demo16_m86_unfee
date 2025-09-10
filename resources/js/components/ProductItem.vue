@@ -22,7 +22,7 @@
         <div class="product-item-info">
             <h4 class="product-item-name">{{ p_item.user.facility_name }}</h4>
             <p class="product-item-station"><span class="label">エリア / 最寄駅：</span><span>{{ p_item.station }}</span></p>
-            <p class="product-item-followers"><span class="label">応募フォロワー数：</span><span>{{ p_item.entry_follower }}人以上</span></p>
+            <p class="product-item-followers"><span class="label">応募フォロワー数：<br></span><span>{{ p_item.entry_follower }}人以上</span></p>
             <h2 class="product-item-title">{{ p_item.title }}</h2>
         </div>
 
@@ -168,6 +168,14 @@ export default {
         text-align: left;
         color: #333;
         font-weight: bold;
+        line-clamp: 2;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        white-space: normal;
+        min-height: 38.5px;
     }
 
     .product-btn {
