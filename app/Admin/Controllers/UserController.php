@@ -47,6 +47,7 @@ class UserController extends AdminController
         $grid->column('facebook_account', trans('admin.facebook_account'))->display(function ($facebook_account) {
             return $facebook_account ? '@' . $facebook_account : '-';
         });
+        $grid->column('status_text', trans('admin.userrequest_status'));
         $grid->column('created_at', trans('admin.created_at'))->display(function ($created_at) {
             return date('Y-m-d H:i:s', strtotime($created_at));
         });
