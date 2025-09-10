@@ -363,7 +363,7 @@ class User extends Authenticatable implements MustVerifyEmail, CanResetPasswordC
 
     public function getContactNameAttribute()
     {
-        if ($this->user_role == 'influencer') {
+        if ($this->role == 'influencer') {
             return $this->nickname;
         } else {
             return $this->facility_name;
