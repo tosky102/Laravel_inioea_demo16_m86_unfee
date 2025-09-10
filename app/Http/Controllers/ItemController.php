@@ -37,6 +37,7 @@ class ItemController extends Controller
         $offer = isset($_GET['offer']) ? $_GET['offer'] : '';
         $sns = isset($_GET['sns']) ? $_GET['sns'] : '';
         $gender = isset($_GET['gender']) ? $_GET['gender'] : '';
+        $entry_follower = isset($_GET['entry_follower']) ? $_GET['entry_follower'] : '';
         $isEmergency = isset($_GET['is_emergency']) ? 1 : null;
 
         $breadcrumbs = [
@@ -96,7 +97,9 @@ class ItemController extends Controller
         if ($gender) {
             $objItems = $objItems->where('gender', $gender);
         }
-
+        if ($entry_follower) {
+            $objItems = $objItems->where('entry_follower', '>=', $entry_follower);
+        }
         if ($order == '') $order = 'new';
         if ($order == 'new') {
             $objItems = $objItems->orderBy('created_at', 'DESC');
@@ -133,6 +136,7 @@ class ItemController extends Controller
             'postSNS' => $postSNS,
             'genders' => $genders,
             'isEmergency' => $isEmergency,
+            'entry_follower' => $entry_follower,
         );
 
         return view('item.index')->with(compact('breadcrumbs', 'title', 'products', 'configs', 'objItems'));
