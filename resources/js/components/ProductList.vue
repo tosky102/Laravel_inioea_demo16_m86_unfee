@@ -90,7 +90,7 @@
             </div>
             <div class="col-6 col-md-4 mb-2">
               <label for="gender" class="d-flex align-items-center">
-                <input type="number" v-model="config.entry_follower" name="entry_follower" class="form-control login-input" id="entry_follower" />
+                <input type="number" v-model="config.entry_follower" name="entry_follower" class="form-control login-input" id="entry_follower" placeholder="フォロワー数を入力してください" />
               </label>
             </div>
             <div class="col-6 col-md-2 mb-2 d-flex align-items-center justify-content-start pl-8">
