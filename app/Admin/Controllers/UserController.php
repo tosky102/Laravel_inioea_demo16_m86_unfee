@@ -30,7 +30,7 @@ class UserController extends AdminController
         $grid = new Grid(new $userModel());
 
         $grid->column('id', 'ID')->sortable();
-        $grid->column('name', trans('admin.user_name'));
+        $grid->column('name', trans('admin.influencer_name'));
         $grid->column('email', trans('admin.email'));
         $grid->column('instagram_account', trans('admin.instagram_account'))->display(function ($instagram_account) {
             return $instagram_account ? '@' . $instagram_account : '-';
@@ -52,7 +52,7 @@ class UserController extends AdminController
         });
         $grid->column('impersonate', 'なりすましログイン')->display(function () {
             /** @var \App\Models\User $this */
-            return "<a href='/impersonate/{$this->id}' target='_blank'><i class='fa fa-external-link' style='margin-right: 4px; margin-top: 4px;'></i>なりすましログイン</a>";
+            return "<a href='/impersonate/{$this->id}' target='_blank' style='display: block; width: 145px;'><i class='fa fa-external-link' style='margin-right: 4px; margin-top: 4px;'></i>なりすましログイン</a>";
         });
 
         $grid->model()->where('role', 'influencer')->orderBy('created_at', 'desc');
