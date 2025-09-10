@@ -66,6 +66,7 @@ class User extends Authenticatable implements MustVerifyEmail, CanResetPasswordC
     ];
 
     protected $appends = [
+        'contact_name',
         'full_name',
         'gender_name',
         'mailmag_flag_text',
@@ -358,6 +359,15 @@ class User extends Authenticatable implements MustVerifyEmail, CanResetPasswordC
         $category = Category::find($this->admin_pickup_category);
         if ($category) return $category->name;
         return '';
+    }
+
+    public function getContactNameAttribute()
+    {
+        if ($this->user_role == 'influencer') {
+            return $this->nickname;
+        } else {
+            return $this->name;
+        }
     }
 
     public static function boot()
