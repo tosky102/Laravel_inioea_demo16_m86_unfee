@@ -90,26 +90,7 @@
             </div>
             <div class="col-6 col-md-4 mb-2">
               <label for="gender" class="d-flex align-items-center">
-                <select
-                  v-model="config.gender"
-                  name="gender"
-                  class="form-control login-input"
-                  id="gender"
-                >
-                  <option value="">性別を選択してください</option>
-                  <option
-                    v-for="(gender, key) in config.genders"
-                    :key="key"
-                    :value="key"
-                  >
-                    {{ gender }}
-                  </option>
-                </select>
-              </label>
-            </div>
-            <div class="col-6 col-md-4 mb-2">
-              <label for="gender" class="d-flex align-items-center">
-                <input type="number" v-model="config.entry_follower" name="entry_follower" class="form-control login-input" id="entry_follower" placeholder="応募条件のフォロワー数を入力してください" />
+                <input type="number" v-model="config.entry_follower" name="entry_follower" class="form-control login-input" id="entry_follower" />
               </label>
             </div>
             <div class="col-6 col-md-2 mb-2 d-flex align-items-center justify-content-start pl-8">
