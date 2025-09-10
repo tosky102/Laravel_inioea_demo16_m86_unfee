@@ -98,7 +98,7 @@ class ItemController extends Controller
             $objItems = $objItems->where('gender', $gender);
         }
         if ($entry_follower) {
-            $objItems = $objItems->where('entry_follower', '>=', $entry_follower);
+            $objItems = $objItems->where('entry_follower', '>', $entry_follower);
         }
         if ($order == '') $order = 'new';
         if ($order == 'new') {
