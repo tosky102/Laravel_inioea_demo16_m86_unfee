@@ -153,7 +153,7 @@ class Controller extends BaseController
                 'area' => $user->area,
                 'url' => route('user.show', ['id' => $user->id]),
                 'sns' => $user->sns,
-                'admin_pickup_category' => $user->admin_pickup_category && isset($categories[$user->admin_pickup_category]) ? $categories[$user->admin_pickup_category] : '',
+                'admin_pickup_category' => $user->admin_pickup_category_label,
                 'is_picked' => $user->is_picked,
                 'newMessageUrl' => Auth::user() ? route('message.new_message', ['id' => $user->id]) : route('login'),
             );

@@ -164,7 +164,7 @@ class UserController extends Controller
             'career_3' => $user->career_3,
             'is_picked' => $user->is_picked,
             'admin_comment' => nl2br($user->admin_comment),
-            'admin_pickup_category' => $user->admin_pickup_category,
+            'admin_pickup_category' => $user->admin_pickup_category_label,
             'level' => $user->level,
             'comment' => nl2br($user->comment),
             'rating' => $user->sellingReviews->avg('rating'),

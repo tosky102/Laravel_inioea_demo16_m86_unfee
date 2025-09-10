@@ -77,7 +77,8 @@ class User extends Authenticatable implements MustVerifyEmail, CanResetPasswordC
         'type_text',
         'sns',
         'main_category_label',
-        'pref_label'
+        'pref_label',
+        'admin_pickup_category_label',
     ];
 
     function getTypeTextAttribute() {
@@ -350,6 +351,13 @@ class User extends Authenticatable implements MustVerifyEmail, CanResetPasswordC
         if (!$this->pref) return '';
         $prefs = json_decode(File::get(public_path('pref.json')), true);
         return $prefs[$this->pref]['name'];
+    }
+
+    public function getAdminPickupCategoryLabelAttribute()
+    {
+        $category = Category::find($this->admin_pickup_category);
+        if ($category) return $category->name;
+        return '';
     }
 
     public static function boot()
